@@ -1,0 +1,19 @@
+/* Custom Professional Terminal Styling */
+[data-testid="stMetricValue"] {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+[data-testid="stMetricDelta"] {
+    font-size: 16px;
+}
+
+.stApp {
+    background-color: #0E1117;
+}
+
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+    color: #FAFAFA;
+}
